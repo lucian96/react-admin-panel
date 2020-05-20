@@ -1,0 +1,10 @@
+.users{
+    display: flex;
+    flex-direction: column;
+    margin-left: 0;
+    margin-right: 15px;
+    border-style: dotted;
+}
+.users button {
+    width: 70px;
+}

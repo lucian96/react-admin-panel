@@ -1,0 +1,18 @@
+.app {
+  min-height: 100vh;
+}
+.button{
+  display: flex;
+  flex-direction: column;
+  width: 30%;
+}
+.app h1 {
+  margin-top: 0;
+}
+input, button {
+  margin: 3px;
+}
+img {
+  width: 4em;
+  margin-bottom: 5px;
+}

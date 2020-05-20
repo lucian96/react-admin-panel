@@ -1,0 +1,24 @@
+#navbar{
+    list-style-type: none;
+    list-style-image: none;
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    border: 1px solid #0062cc;;
+    padding-left: 0px;
+    margin: 0;
+    background-color: #007bff;
+    color: white;
+    width: 25%;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: white;
+    text-decoration: none;
+}
